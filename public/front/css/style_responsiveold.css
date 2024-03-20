@@ -1,0 +1,530 @@
+@media only screen and (max-width:1200px) {
+    
+@keyframes sonar {
+  0% {
+    transform: scale(0.9);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.page-wrapper .sidebar-wrapper,
+.sidebar-wrapper .sidebar-brand > a,
+.sidebar-wrapper .sidebar-dropdown > a:after,
+.sidebar-wrapper .sidebar-menu .sidebar-dropdown .sidebar-submenu li a:before,
+.sidebar-wrapper ul li a i,
+.page-wrapper .page-content,
+.sidebar-wrapper .sidebar-search input.search-menu,
+.sidebar-wrapper .sidebar-search .input-group-text,
+.sidebar-wrapper .sidebar-menu ul li a,
+#show-sidebar,
+#close-sidebar {
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+
+.head_list  a {   
+    font-size: 22px!important;  
+    color:#000;
+}
+.rayyart_img {
+    width: 105px!important;
+}
+.welome_content  p {
+    font-size: 22px!important;
+}
+ .Convecol_box  p {
+    font-size: 29px!important;
+    line-height: 40.93px!important; 
+}
+.Partner_btn a {
+    font-size: 35px!important;
+}
+.Craft_box h1 {
+    font-size: 35px!important;
+}
+.Convecol_box  h3 {
+    font-size: 51px!important;
+}
+.salon_img p {   
+    font-size: 40px!important;
+    line-height: 45px!important;  
+}
+.salon_content {
+    left: 0!important;
+    top: 220px!important;
+}
+.container{
+    max-width: 930px!important;
+}
+/*.navbar-brand img {
+    width: 105px!important;
+}*/
+.play img {
+    width: 190px!important;
+    height: 50px!important;
+    object-fit: cover!important;
+    border-radius: 7px!important;
+}
+.Polaroid1_imge {
+    width: 195.81px!important;
+    height: 260.55px!important;  
+}
+.Polaroid1_imge img {
+    width: 175.94px!important
+}
+.Polaroid1_imge h1 {
+    font-size: 23px!important;
+}
+/*.ray_imag {
+    position: absolute;
+    right: unset!important;
+    left: unset!important;
+}*/
+.Polaroid1_imge3 img {
+    width: 215.68px!important; 
+}
+.Polaroid1_imge3 {
+    width: 235.56px!important;   
+}
+.Polaroid1_imge4 {
+    width: 255.56px!important;
+}
+.Polaroid1_imge4 img {
+    width: 225.68px!important;
+}
+
+
+}
+
+@media only screen and (max-width:991px) {
+.head_list  a {
+    font-size: 20px!important;
+}
+.welome_content  p {
+    font-size: 16px!important;
+}
+.play img {
+   width: 165px!important;
+    height: 50px!important; 
+}
+.Convecol_box  h3 {
+    font-size: 40px!important;
+}
+.Convecol_box  p {
+    font-size: 19px!important;
+    line-height: 29.93px!important;
+}
+.Craft_box h1 {
+    font-size: 28px!important;
+}
+.Partner_btn {    
+    padding: 5px 5px 5px 5px!important;
+}
+.Partner_btn a {
+    font-size: 23px!important;
+}
+
+/*.salon_img {
+    height: 544px!important;
+}*/
+.salon_img p {
+    font-size: 30px!important;
+    line-height: 35px!important;            
+}
+.salon_content {  
+    top: 165px!important;    
+}
+.Aboutus a {
+    font-size: 20px!important;
+}
+.Polaroid1_imge img {
+    width: 175.94px!important;
+    height: 170.94px!important;
+    padding: 15px 0px 0px 10px!important;
+}
+.Polaroid1_imge {
+    width: 185.81px!important;
+    height: 225.55px!important;
+}
+.Polaroid1_imge h1 {
+    font-size: 20px!important;
+}
+.container {
+    max-width: 915px!important;
+}
+.cros {
+    width: 20px!important;   
+}
+.ray_img1 img {
+    width: 55%!important;
+}
+.Polaroid1_imge5 {
+    width: 215.56px!important;
+    height: 255.85px!important;
+  
+}
+.Polaroid1_imge5 img {
+    width: 185.68px!important;
+    height: 172.17px!important;
+}
+.Polaroid1_imge4 img {
+    width: 175.68px!important;
+}
+.Polaroid1_imge4 {
+    width: 200.56px!important;
+}
+.Polaroid1_imge3 img {
+    width: 165.68px!important;
+}
+.Polaroid1_imge3 {
+    width: 185.56px!important;
+}
+.Polaroid1_imge3 h1 {
+    font-size: 22px!important;
+}
+.Polaroid1_imge2 h1 {
+    font-size: 22px!important;
+}
+.Polaroid1_imge4 h1 {
+    font-size: 22px!important;
+}
+.Polaroid1_imge1 h1 {
+    font-size: 22px!important;
+}.one_navbar a {
+    font-size: 25px!important;   
+}.welome_content h5 {
+    font-size: 35px!important;
+}
+ul.mobile.feane {
+    z-index: 10;
+    position: absolute;
+    text-align: end;
+    right: 0px;
+    width: 100%;
+    background: #fbb034;
+    height: auto;
+    top: 75px;
+    padding: 10px 0px 20px 0px;
+    text-align: center;
+    border-radius: 0;
+    border-top: 1px solid;
+}
+.mobile a {
+    color:#000;
+}
+button.bars {
+    border: 0;
+    background: none;
+    font-size: 28px;
+    position: absolute;
+    right: 15px;
+    top: 19px;
+}
+button.bars i{
+    color:#000;
+}
+}
+
+
+@media only screen and (max-width:764px) {
+.Craft_box h1 {
+    font-size: 22px!important;
+}
+.salon_content {
+    top: 120px !important;
+}
+.salon_img p {
+    font-size: 22px!important;
+    line-height: 25px!important;
+
+}
+.Partner_btn a {
+    font-size: 22px!important;
+}
+.footer  p {
+    font-size: 18px!important;
+}
+.Polaroid1_imge {
+    width: 125.81px!important;
+    height: 195.55px!important;
+}
+.Polaroid1_imge img {
+    width: 110.94px!important;
+    height: 132.94px!important;
+}
+.Polaroid1_imge h1 {
+    font-size: 15px!important;
+}
+/*.salon_img {
+    height: 407px!important;
+}*/
+.Polaroid1_imge2 {
+    width: 200.62px!important;  
+    height: 210.64px!important;
+}
+.Polaroid1_imge2 img {
+    width: 173.79px!important;
+    height: 145.03px!important;
+    padding-left: 13px!important;
+}
+.Polaroid1_imge5 img {
+    width: 123.68px!important;
+    height: 130.17px!important;
+}
+.Polaroid1_imge5 {
+    width: 152.56px!important;
+    height: 205.85px!important;
+}
+.Polaroid1_imge5 h1 {
+    font-size: 17px!important;
+}
+.Polaroid1_imge4 img {
+    width: 115.68px!important;
+    height: 160.17px!important;
+}
+.Polaroid1_imge4 {
+    width: 145.56px!important;
+    height: 220.85px!important;
+}
+.Polaroid1_imge4 h1 {
+    font-size: 16px!important;
+}
+.Polaroid1_imge3 img {
+    width: 120.68px!important;
+    padding-left: 10px!important;
+    object-fit: cover!important;
+}
+.Polaroid1_imge3 {
+    width: 128.56px!important
+}
+.Polaroid1_imge3 h1 {
+    font-size: 18px!important;
+}
+#navbarNav {
+    display: block !important;
+}
+.one_navbar a {
+    font-size: 17px!important;
+}.one_navbar a {
+    font-size: 17px!important;
+}
+.ray_imag1 {
+    background-image: url(../images/ray1.png)!important;
+    width: 100%!important;
+    height: 100%;
+    position: absolute!important;
+    right: 0 !important;
+    top: 43px!important;
+    background-repeat: no-repeat!important;
+    background-size: cover;
+       opacity: 0.6;
+}
+.welome_content {
+    position: relative;
+    z-index: 5;
+}
+}
+
+@media only screen and (max-width:575px) {
+    #navbarNav {
+        display: none !important;
+    }
+ 
+
+.welome_content  p {
+    font-size: 13px!important;
+    line-height: 22.16px!important;
+}
+.salon_content {
+    top: 125px !important;
+}
+
+.Partner_btn {
+    padding: 6px 0px 7px 0px!important;
+}
+.cros {
+    width: 16px!important;   
+}
+.Polaroid1_imge {
+    width: 100.81px!important;
+    height: 133.55px!important;
+    transform: rotate(0deg)!important;
+}
+.salon_img img {
+    width: 100%!important;
+}
+.Polaroid1_imge img {
+    width: 89.81px!important;
+    height: 83.94px!important;
+}
+.Polaroid1_imge h1 {
+    font-size: 10px!important;
+}
+.Aboutus a {
+    font-size: 13px!important;
+}
+.Craft_box h1 {
+    font-size: 12px!important;
+}
+
+.Partner_btn a {
+    font-size: 18px!important;
+}
+.salon_img p {
+    font-size: 13px!important;
+}
+.play img {
+    width: 145px!important;
+    height: 45px!important;
+}
+/*.navbar-brand img {
+    width: 85px!important;
+}*/
+.logofooter  img {
+    width: 20%!important;
+}.Convecol_box  h3 {
+    font-size: 25px!important;
+}
+.Convecol_box  p {
+    font-size: 13px!important;
+    line-height: 23.93px!important;
+}
+.navbar-brand img {
+    width: 65px!important;
+}
+.welome_content h5 {     
+    font-size: 30px!important;
+}
+.Polaroid1_imge2 {
+    width: 104.62px!important;
+    height: 160.64px!important;
+     transform: rotate(0deg)!important;
+}
+.Polaroid1_imge2 h1 {
+    font-size: 14px!important;
+}.Polaroid1_imge2 img {
+    width: 86.79px!important;
+    height: 96.03px!important;
+    padding-left: 6px!important;
+}
+.Polaroid1_imge5 h1 {
+    font-size: 10px!important;
+}
+
+.Polaroid1_imge5 {
+    width: 105.56px!important;
+    height: 155.85px!important;
+    transform: rotate(0deg)!important;
+}
+.Polaroid1_imge5 img {
+    width: 74.68px!important;
+    height: 97.17px!important;
+}
+.Polaroid1_imge4 h1 {
+    font-size: 13px!important;
+}
+.Polaroid1_imge4 img {
+    width: 83.68px!important;
+    height: 119.17px!important;
+
+}
+.Polaroid1_imge4 {
+    width: 104.56px!important;
+    height: 185.85px!important;
+    transform: rotate(0deg)!important;
+}
+.Polaroid1_imge3 img {
+    width: 79.68px!important;
+    padding-left: 10px!important;
+    height: 120.17px!important;
+}
+.Polaroid1_imge3 {
+    width: 90.56px!important;
+    height: 170.85px!important;
+    transform: rotate(0deg)!important;
+}.Polaroid1_imge3 h1 {
+    font-size: 13px!important;
+}
+}
+
+@media only screen and (max-width:374px) {
+/*.salon_img {
+    height: 228px!important;
+}*/
+.salon_content {
+    top: 106px !important;
+}
+
+.Polaroid1_imge img {
+    width: 54.94px!important;
+    height: 82.94px!important;
+}
+.Polaroid1_imge {
+    width: 66.81px!important;
+    height: 135.55px!important;
+}
+
+.navbar-brand img {
+    width: 70px!important;
+}
+.logofooter  img {
+    width: 25%!important;
+}
+}
+
+@media only screen and (max-width:375px) {
+.Partner_btn a {
+    font-size: 15px!important;
+}
+.salon_img p {
+    line-height: 20px!important;
+}
+.play img {
+    width: 126px!important;
+    height: 40px!important;
+}
+.Polaroid1_imge {
+    width: 85.81px!important;
+    height: 135.55px!important;
+}
+.Polaroid1_imge img {
+    width: 74.94px!important;
+}
+.Polaroid1_imge5 img {
+    width: 60.68px!important;
+    height: 80.17px!important;
+}
+.Polaroid1_imge5 {
+    width: 90.56px!important;
+}
+.Polaroid1_imge4 img {
+    width: 63.68px!important;
+    height: 100.17px!important;
+}
+.Polaroid1_imge4 {
+    width: 85.56px!important;
+    height: 160.85px!important;
+}
+.Polaroid1_imge3 img {
+    width: 70.68px!important;
+    height: 109.17px!important;
+}.Polaroid1_imge3 {
+    width: 79.56px!important;
+}
+.Polaroid1_imge2 {
+    width: 89.62px!important;
+}.Polaroid1_imge2 img {
+    width: 75.79px!important;
+}
+}
+
+
+
+

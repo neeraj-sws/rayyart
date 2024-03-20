@@ -1,0 +1,20 @@
+// Fonts
+// @import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+// @import 'variables';
+
+// // Bootstrap
+// @import 'bootstrap/scss/bootstrap';
+
+
+@import '../../node_modules/toastr/build/toastr';
+@import '../../public/admin/assets/vendors/datatables/dataTables.bootstrap.min.css';
+@import '../../public/admin/assets/vendors/toastr/toastr.min.css';
+@import '../../public/admin/assets/vendors/apexcharts/dist/apexcharts.css';
+@import '../../public/admin/assets/css/app.min.css';
+
+
+.pac-container{
+    z-index: 999999 !important;
+}

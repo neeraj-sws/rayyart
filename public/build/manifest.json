@@ -1,0 +1,88 @@
+{
+  "public/admin/assets/fonts/feather.eot": {
+    "file": "assets/feather-93ae2328.eot",
+    "src": "public/admin/assets/fonts/feather.eot"
+  },
+  "public/admin/assets/fonts/feather.svg": {
+    "file": "assets/feather-7f0825fa.svg",
+    "src": "public/admin/assets/fonts/feather.svg"
+  },
+  "public/admin/assets/fonts/feather.ttf": {
+    "file": "assets/feather-6920da09.ttf",
+    "src": "public/admin/assets/fonts/feather.ttf"
+  },
+  "public/admin/assets/fonts/feather.woff": {
+    "file": "assets/feather-ef3c47cb.woff",
+    "src": "public/admin/assets/fonts/feather.woff"
+  },
+  "public/admin/assets/fonts/la-brands-400.eot": {
+    "file": "assets/la-brands-400-c0e32387.eot",
+    "src": "public/admin/assets/fonts/la-brands-400.eot"
+  },
+  "public/admin/assets/fonts/la-brands-400.svg": {
+    "file": "assets/la-brands-400-af7a9c33.svg",
+    "src": "public/admin/assets/fonts/la-brands-400.svg"
+  },
+  "public/admin/assets/fonts/la-brands-400.ttf": {
+    "file": "assets/la-brands-400-fbc98702.ttf",
+    "src": "public/admin/assets/fonts/la-brands-400.ttf"
+  },
+  "public/admin/assets/fonts/la-brands-400.woff": {
+    "file": "assets/la-brands-400-14c63377.woff",
+    "src": "public/admin/assets/fonts/la-brands-400.woff"
+  },
+  "public/admin/assets/fonts/la-brands-400.woff2": {
+    "file": "assets/la-brands-400-ff70c9bc.woff2",
+    "src": "public/admin/assets/fonts/la-brands-400.woff2"
+  },
+  "public/admin/assets/fonts/la-regular-400.eot": {
+    "file": "assets/la-regular-400-7dc456f0.eot",
+    "src": "public/admin/assets/fonts/la-regular-400.eot"
+  },
+  "public/admin/assets/fonts/la-regular-400.svg": {
+    "file": "assets/la-regular-400-8606b583.svg",
+    "src": "public/admin/assets/fonts/la-regular-400.svg"
+  },
+  "public/admin/assets/fonts/la-regular-400.ttf": {
+    "file": "assets/la-regular-400-4b6ab8d0.ttf",
+    "src": "public/admin/assets/fonts/la-regular-400.ttf"
+  },
+  "public/admin/assets/fonts/la-regular-400.woff": {
+    "file": "assets/la-regular-400-7711fabc.woff",
+    "src": "public/admin/assets/fonts/la-regular-400.woff"
+  },
+  "public/admin/assets/fonts/la-regular-400.woff2": {
+    "file": "assets/la-regular-400-51ca2c00.woff2",
+    "src": "public/admin/assets/fonts/la-regular-400.woff2"
+  },
+  "public/admin/assets/fonts/la-solid-900.eot": {
+    "file": "assets/la-solid-900-8a57f8a9.eot",
+    "src": "public/admin/assets/fonts/la-solid-900.eot"
+  },
+  "public/admin/assets/fonts/la-solid-900.svg": {
+    "file": "assets/la-solid-900-36bf86c3.svg",
+    "src": "public/admin/assets/fonts/la-solid-900.svg"
+  },
+  "public/admin/assets/fonts/la-solid-900.ttf": {
+    "file": "assets/la-solid-900-07ce3559.ttf",
+    "src": "public/admin/assets/fonts/la-solid-900.ttf"
+  },
+  "public/admin/assets/fonts/la-solid-900.woff": {
+    "file": "assets/la-solid-900-a0d21b2a.woff",
+    "src": "public/admin/assets/fonts/la-solid-900.woff"
+  },
+  "public/admin/assets/fonts/la-solid-900.woff2": {
+    "file": "assets/la-solid-900-10a68e01.woff2",
+    "src": "public/admin/assets/fonts/la-solid-900.woff2"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-4ed993c7.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app-bae07a8f.css",
+    "isEntry": true,
+    "src": "resources/sass/app.scss"
+  }
+}

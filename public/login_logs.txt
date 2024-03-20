@@ -1,0 +1,81 @@
+Cn_social_login-
+Cn_social_login-
+Cn_social_login-
+Cn_social_login-
+Cn_social_login-
+Cn_social_login-shifan.dws@gmail.com
+Cn_social_login-shifan.dws@gmail.com
+Cn_social_login-POST /api/social-login HTTP/1.1
+Content-Length:     1365
+Content-Type:       text/plain; charset=utf-8
+Host:               shop-appointment.codelive.info
+User-Agent:         Dart/3.2 (dart:io)
+X-Forwarded-Host:   shop-appointment.codelive.info
+X-Forwarded-Port:   80
+X-Forwarded-Proto:  http
+X-Forwarded-Server: shop-appointment.codelive.info
+X-Real-Ip:          ::ffff:122.168.38.158
+
+{"firstname":"Rohit","lastname":"Chouhan","id":"113514441359837658695","token":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjZmOTc3N2E2ODU5MDc3OThlZjc5NDA2MmMwMGI2NWQ2NmMyNDBiMWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3NTk0NzQ1NzU5ODEtbzZyNWltanJpdGtlcG05dTd1OWF0aGQyOHU1M2JzZGMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3NTk0NzQ1NzU5ODEtbzQ3bHByOTQ2MHM0dDU1OXVrcDNlNWoxMDRxaDVpbmwuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTM1MTQ0NDEzNTk4Mzc2NTg2OTUiLCJlbWFpbCI6InJvaGl0Y2hvdWhhbjI0MTRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJSb2hpdCBDaG91aGFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0k2N0VsT1ZEelRBRlZtQmJfMlNlQnJjMm0xY0RnSHVUOEdZci1ZN242dj1zOTYtYyIsImdpdmVuX25hbWUiOiJSb2hpdCIsImZhbWlseV9uYW1lIjoiQ2hvdWhhbiIsImxvY2FsZSI6ImVuIiwiaWF0IjoxNzA5MzcyNTQwLCJleHAiOjE3MDkzNzYxNDB9.d-9U0iGNJwv3rbUKYfawehTn1OTp90KIg77B0BQlI70K40zYzGKE1sC4FX--AfjMY1cGwqHzvqSbfbTTGCIg9UJj-40hOw6xZjABupLtXYTBJeXiF2DUTvO9NFPCL2eHS8DJ283wRGuF9CbyHTJxCXmYQYYbwi_gZgAO9-xQfqJUanLfPS8ktg3k7Bo8Bd-epY55opH3Evf5Pmql80WCq5IJFUuh1qWlllKsCtnlhgGZ1HDBypPS_pdRMg-cx8oGxafNPCmqNfZcPBLVW5k-AuSknMpBG2VBK-JutMX52UEa6tFoYrzfrpopKTw7dSjTpNW3Clwxm6BVXI-AKgDjzw","email":"rohitchouhan2414@gmail.com","photoUrl":"https://lh3.googleusercontent.com/a/ACg8ocI67ElOVDzTAFVmBb_2SeBrc2m1cDgHuT8GYr-Y7n6v=s96-c","provider":"GOOGLE"}
+Cn_social_login-POST /api/social-login HTTP/1.1
+Content-Length:     1365
+Content-Type:       text/plain; charset=utf-8
+Host:               shop-appointment.codelive.info
+User-Agent:         Dart/3.2 (dart:io)
+X-Forwarded-Host:   shop-appointment.codelive.info
+X-Forwarded-Port:   80
+X-Forwarded-Proto:  http
+X-Forwarded-Server: shop-appointment.codelive.info
+X-Real-Ip:          ::ffff:122.168.38.158
+
+{"firstname":"Rohit","lastname":"Chouhan","id":"113514441359837658695","token":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjZmOTc3N2E2ODU5MDc3OThlZjc5NDA2MmMwMGI2NWQ2NmMyNDBiMWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3NTk0NzQ1NzU5ODEtbzZyNWltanJpdGtlcG05dTd1OWF0aGQyOHU1M2JzZGMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3NTk0NzQ1NzU5ODEtbzQ3bHByOTQ2MHM0dDU1OXVrcDNlNWoxMDRxaDVpbmwuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMTM1MTQ0NDEzNTk4Mzc2NTg2OTUiLCJlbWFpbCI6InJvaGl0Y2hvdWhhbjI0MTRAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJSb2hpdCBDaG91aGFuIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hL0FDZzhvY0k2N0VsT1ZEelRBRlZtQmJfMlNlQnJjMm0xY0RnSHVUOEdZci1ZN242dj1zOTYtYyIsImdpdmVuX25hbWUiOiJSb2hpdCIsImZhbWlseV9uYW1lIjoiQ2hvdWhhbiIsImxvY2FsZSI6ImVuIiwiaWF0IjoxNzA5MzcyNTQwLCJleHAiOjE3MDkzNzYxNDB9.d-9U0iGNJwv3rbUKYfawehTn1OTp90KIg77B0BQlI70K40zYzGKE1sC4FX--AfjMY1cGwqHzvqSbfbTTGCIg9UJj-40hOw6xZjABupLtXYTBJeXiF2DUTvO9NFPCL2eHS8DJ283wRGuF9CbyHTJxCXmYQYYbwi_gZgAO9-xQfqJUanLfPS8ktg3k7Bo8Bd-epY55opH3Evf5Pmql80WCq5IJFUuh1qWlllKsCtnlhgGZ1HDBypPS_pdRMg-cx8oGxafNPCmqNfZcPBLVW5k-AuSknMpBG2VBK-JutMX52UEa6tFoYrzfrpopKTw7dSjTpNW3Clwxm6BVXI-AKgDjzw","email":"rohitchouhan2414@gmail.com","photoUrl":"https://lh3.googleusercontent.com/a/ACg8ocI67ElOVDzTAFVmBb_2SeBrc2m1cDgHuT8GYr-Y7n6v=s96-c","provider":"GOOGLE"}
+Cn_social_login-POST /api/social-login HTTP/1.1
+Content-Length:     1396
+Content-Type:       application/x-www-form-urlencoded; charset=utf-8
+Host:               shop-appointment.codelive.info
+User-Agent:         Dart/3.2 (dart:io)
+X-Forwarded-Host:   shop-appointment.codelive.info
+X-Forwarded-Port:   80
+X-Forwarded-Proto:  http
+X-Forwarded-Server: shop-appointment.codelive.info
+X-Real-Ip:          ::ffff:1.187.87.218
+
+firstname=Ashray&lastname=Yadav&id=109553587988880548286&token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjZmOTc3N2E2ODU5MDc3OThlZjc5NDA2MmMwMGI2NWQ2NmMyNDBiMWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3NTk0NzQ1NzU5ODEtbzZyNWltanJpdGtlcG05dTd1OWF0aGQyOHU1M2JzZGMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3NTk0NzQ1NzU5ODEtbzQ3bHByOTQ2MHM0dDU1OXVrcDNlNWoxMDRxaDVpbmwuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDk1NTM1ODc5ODg4ODA1NDgyODYiLCJlbWFpbCI6ImFzaHJheTQwM0BnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwibmFtZSI6IkFzaHJheSBZYWRhdiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NMYkpkUC1BLWZWWnRGdXhtcVl2cU9EcGFlaU5BMHl5VEhMU2EtX2ZNTG50ZXM9czk2LWMiLCJnaXZlbl9uYW1lIjoiQXNocmF5IiwiZmFtaWx5X25hbWUiOiJZYWRhdiIsImxvY2FsZSI6ImVuLUdCIiwiaWF0IjoxNzA5NDgzOTI4LCJleHAiOjE3MDk0ODc1Mjh9.UqjhJPlU8m1j5TtpcxKZKjmsAz1FuCMbrfK-UeIvbUkRuHzsyIx_VwP6HFADb0ZN5T9EJDKG8H8jLPRaWyXFN-0Fqm2gA77YDTL3fCnraGl8IyEwxmnx-nfCAPEzdZWOHfcB22DM5sYIoZZO0nMlxQdnlRbuGoxD6FSQ5PX3qhhR5XuMIq-z-dZdnb92khEkl2BE0UepH9OfjH4thkFenzUwju_RqTktdqlcn6m2JhO_c2AJgxTKehrJ8nTIzWP8usXj5pErQX_1h121Id3kqj31IEKaT2MzkaAeaARugkO6HDzt5x-QitBehZqUGMKMM2iyBEHDCOcgeGB4UIHnkQ&email=ashray403%40gmail.com&photoUrl=https%3A%2F%2Flh3.googleusercontent.com%2Fa%2FACg8ocLbJdP-A-fVZtFuxmqYvqODpaeiNA0yyTHLSa-_fMLntes%3Ds96-c&provider=GOOGLE&address=Indore&latitude=22.6696465&longitude=75.8278594
+Cn_social_login-POST /api/social-login HTTP/1.1
+Accept:             */*
+Authorization:      Bearer 2167|Awhzn05e3QHrRKwwQk77tfnVXmjdAacnac64ZpTlbf946c47
+Content-Length:     1368
+Content-Type:       application/json
+Host:               shop-appointment.codelive.info
+Postman-Token:      68c1fb6b-33ba-4b33-b4ea-986748e67cb8
+User-Agent:         PostmanRuntime/7.36.3
+X-Forwarded-Host:   shop-appointment.codelive.info
+X-Forwarded-Port:   80
+X-Forwarded-Proto:  http
+X-Forwarded-Server: shop-appointment.codelive.info
+X-Real-Ip:          ::ffff:122.168.214.47
+
+{
+   
+    "firstname":"Shifan","lastname":"Khan","id":"106808329052367936959","token":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjZmOTc3N2E2ODU5MDc3OThlZjc5NDA2MmMwMGI2NWQ2NmMyNDBiMWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3NTk0NzQ1NzU5ODEtbzZyNWltanJpdGtlcG05dTd1OWF0aGQyOHU1M2JzZGMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3NTk0NzQ1NzU5ODEtbzQ3bHByOTQ2MHM0dDU1OXVrcDNlNWoxMDRxaDVpbmwuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY4MDgzMjkwNTIzNjc5MzY5NTkiLCJlbWFpbCI6InNoaWZhbi5kd3NAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJTaGlmYW4gS2hhbiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NJV0ZKNXdKdWJZUW1hLUlCU2hCSU5JT2VNVXRld2RoQjFDSno5WWt5TUR3dz1zOTYtYyIsImdpdmVuX25hbWUiOiJTaGlmYW4iLCJmYW1pbHlfbmFtZSI6IktoYW4iLCJsb2NhbGUiOiJlbi1HQiIsImlhdCI6MTcwOTM3MzQ3OSwiZXhwIjoxNzA5Mzc3MDc5fQ.lzykuH2Pwji6kmxzC2LGKF4aE6vdjFl5ivbhfIWDPOV9aMC-imVo1BDdtsWDvP5WTLQvNqC5l9otfoERy_PCDvAyt95Wd-VrrMucRvJpiqnSB8Orc018XUZ0QKtsFMzpCP5mchE_aOLclFjZiwH7QhA3aJY8AEqdSs1VR9FcqvGI0RxHAUHxYE8BrjaZOnQlMrWw_G59ZZX81B26llo5_c4SnrhYHoMARBMXoE26BNpdHrBGFpyAg-mMmk6BzgDEAHD_Gc9wNlajwojRe_B6xPNXndKAaimB2UdcN1q0M0O6oDiHGH3uJkszk7oiP2Ed5ztanNwW4TX1TSxMJ2a9JA","email":"shifan.dws@gmail.com","photoUrl":"https://lh3.googleusercontent.com/a/ACg8ocIWFJ5wJubYQma-IBShBINIOeMUtewdhB1CJz9YkyMDww=s96-c","provider":"GOOGLE"
+
+}
+Cn_social_login-POST /api/social-login HTTP/1.1
+Accept:             */*
+Authorization:      Bearer 2279|yOl8vUzAqOJIkrdNZJFK5r0RrCHlowXAgCG3yZmp5b5b3487
+Content-Length:     1368
+Content-Type:       application/json
+Host:               shop-appointment.codelive.info
+Postman-Token:      cbe6ffbf-4255-444e-bb1c-7e7526b66923
+User-Agent:         PostmanRuntime/7.37.0
+X-Forwarded-Host:   shop-appointment.codelive.info
+X-Forwarded-Port:   80
+X-Forwarded-Proto:  http
+X-Forwarded-Server: shop-appointment.codelive.info
+X-Real-Ip:          ::ffff:182.68.253.181
+
+{
+   
+    "firstname":"Shifan","lastname":"Khan","id":"106808329052367936959","token":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjZmOTc3N2E2ODU5MDc3OThlZjc5NDA2MmMwMGI2NWQ2NmMyNDBiMWIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiI3NTk0NzQ1NzU5ODEtbzZyNWltanJpdGtlcG05dTd1OWF0aGQyOHU1M2JzZGMuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJhdWQiOiI3NTk0NzQ1NzU5ODEtbzQ3bHByOTQ2MHM0dDU1OXVrcDNlNWoxMDRxaDVpbmwuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJzdWIiOiIxMDY4MDgzMjkwNTIzNjc5MzY5NTkiLCJlbWFpbCI6InNoaWZhbi5kd3NAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsIm5hbWUiOiJTaGlmYW4gS2hhbiIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS9BQ2c4b2NJV0ZKNXdKdWJZUW1hLUlCU2hCSU5JT2VNVXRld2RoQjFDSno5WWt5TUR3dz1zOTYtYyIsImdpdmVuX25hbWUiOiJTaGlmYW4iLCJmYW1pbHlfbmFtZSI6IktoYW4iLCJsb2NhbGUiOiJlbi1HQiIsImlhdCI6MTcwOTM3MzQ3OSwiZXhwIjoxNzA5Mzc3MDc5fQ.lzykuH2Pwji6kmxzC2LGKF4aE6vdjFl5ivbhfIWDPOV9aMC-imVo1BDdtsWDvP5WTLQvNqC5l9otfoERy_PCDvAyt95Wd-VrrMucRvJpiqnSB8Orc018XUZ0QKtsFMzpCP5mchE_aOLclFjZiwH7QhA3aJY8AEqdSs1VR9FcqvGI0RxHAUHxYE8BrjaZOnQlMrWw_G59ZZX81B26llo5_c4SnrhYHoMARBMXoE26BNpdHrBGFpyAg-mMmk6BzgDEAHD_Gc9wNlajwojRe_B6xPNXndKAaimB2UdcN1q0M0O6oDiHGH3uJkszk7oiP2Ed5ztanNwW4TX1TSxMJ2a9JA","email":"shifan.dws@gmail.com","photoUrl":"https://lh3.googleusercontent.com/a/ACg8ocIWFJ5wJubYQma-IBShBINIOeMUtewdhB1CJz9YkyMDww=s96-c","provider":"GOOGLE"
+
+}
