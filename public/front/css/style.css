@@ -11,7 +11,9 @@ div#close-sidebar {
 li {
     list-style: none;
 }
-
+body{
+    background-color: black !important;
+}
 .Polaroid1_imge1  img {
     width: 100%;
     height: 200px;
@@ -134,7 +136,8 @@ section.sec_one {
     right: 0;
 }
 .ray_imag img {
-    width: 100%;
+    width: 100%!important;
+    height:100%!important;
 }
 
 .welome_content h5 {
@@ -216,9 +219,10 @@ section.sec_two {
     font-size: 40px;
     color: #FFFFFF;
     background: #171716;
-    padding: 15px 40px 15px 40px;
+    padding: 11px 46px 11px 45px;
     border-radius: 10px;
     box-shadow: -1px 1px 20px 0px #FFC95E;
+    letter-spacing: 0.9px;
 }
 section.sec_two {
     background: #DFC9F2;
@@ -319,9 +323,9 @@ section.three {
 }
 
 .carousel-indicators [data-bs-target] {
-    width: 12px !important;
-    height: 11px !important;
-    border-radius: 50% !important;
+    width: 12px;
+    height: 11px;
+    border-radius: 50%;
 }
 
 .carousel-control-next-icon {
@@ -556,6 +560,7 @@ img.Polaroid1 {
 .modal-content {
     background: #0F0F1D;
     border-radius: 0;
+    height: 330px;
 }
 .modal-header {
     border-bottom: none;
@@ -661,7 +666,8 @@ button.btn-close {
     position: absolute;
     right: 45px;
     top: 45px;
-}.modal-header {
+}
+.modal-header {
     position: relative;
 }
 .facebok {
@@ -674,4 +680,102 @@ button.btn-close {
 }.cros1 {
     width: 25px;
     height: 24px;
+}
+
+/* Comments*/
+.accordion {
+    display: flex;
+    flex-direction: column;
+    font-family: "Sora", sans-serif;
+    max-width: 991px;
+    min-width: 320px;
+    margin: 50px auto;
+    padding: 0 50px;
+}
+.accordion h1 {
+    font-size: 32px;
+    text-align: center;
+}
+.accordion-item {
+    margin-top: 16px;
+    border: 1px solid #fcfcfc;
+    border-radius: 6px;
+    background: #ffffff;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+}
+.accordion-item .accordion-item-title {
+    position: relative;
+    margin: 0;
+    display: flex;
+    width: 100%;
+    font-size: 15px;
+    cursor: pointer;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    padding: 14px 20px;
+    box-sizing: border-box;
+    align-items: center;
+}
+.accordion-item .accordion-item-desc {
+    display: none;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+    color: #444;
+    border-top: 1px dashed #ddd;
+    padding: 10px 20px 20px;
+    box-sizing: border-box;
+}
+.accordion-item input[type="checkbox"] {
+    position: absolute;
+    height: 0;
+    width: 0;
+    opacity: 0;
+}
+.accordion-item input[type="checkbox"]:checked ~ .accordion-item-desc {
+    display: block;
+}
+.accordion-item
+    input[type="checkbox"]:checked
+    ~ .accordion-item-title
+    .icon:after {
+    content: "-";
+    font-size: 20px;
+}
+.accordion-item input[type="checkbox"] ~ .accordion-item-title .icon:after {
+    content: "+";
+    font-size: 20px;
+}
+.accordion-item:first-child {
+    margin-top: 0;
+}
+.accordion-item .icon {
+    margin-left: 14px;
+}
+
+@media screen and (max-width: 767px) {
+    .accordion {
+        padding: 0 16px;
+    }
+    .accordion h1 {
+        font-size: 22px;
+    }
+}
+
+
+.policypart .Convecol_box p{
+    font-size: 25px;
+    line-height: 42.93px;
+}
+
+
+#said_img img {
+    object-fit: cover;
+    height: 100% !important;
+    width: 100%!important;
+}div#said_img {
+    width: 815px;
+    height: 538px;
+    opacity: 0.4;
+    bottom: 40px;
 }
