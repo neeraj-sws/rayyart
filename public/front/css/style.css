@@ -560,7 +560,7 @@ img.Polaroid1 {
 .modal-content {
     background: #0F0F1D;
     border-radius: 0;
-    height: 330px;
+    /* height: 330px; */
 }
 .modal-header {
     border-bottom: none;
