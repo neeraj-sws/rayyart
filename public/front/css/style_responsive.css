@@ -2,12 +2,12 @@
 @media only screen and (min-width:1460px) {
 .head_list a.nav-link {
     font-size: 22px!important;
-    
-    
+
+
 }
 }
 @media only screen and (max-width:1400px) {
-.ray_imag {   
+.ray_imag {
     width: 630px!important;
 }
 
@@ -25,6 +25,11 @@
 /*.Straightening {
     width: 360px!important;
 }*/
+
+div#said_img {
+    height: 415px!important;
+    bottom: 45px!important;
+}
 }
 
 @media only screen and (max-width:1200px) {
@@ -59,8 +64,8 @@
 .ray_imag {
     width: 545px!important;
 }
-.head_list  a {   
-    font-size: 22px!important;  
+.head_list  a {
+    font-size: 22px!important;
 }
 .rayyart_img {
     width: 105px!important;
@@ -70,7 +75,7 @@
 }
  .Convecol_box  p {
     font-size: 29px!important;
-    line-height: 40.93px!important; 
+    line-height: 40.93px!important;
 }
 .Partner_btn a {
     font-size: 35px!important;
@@ -81,9 +86,9 @@
 .Convecol_box  h3 {
     font-size: 51px!important;
 }
-.salon_img p {   
+.salon_img p {
     font-size: 30px!important;
-    line-height: 45px!important;  
+    line-height: 45px!important;
 }
 .salon_content {
     left: 0!important;
@@ -92,6 +97,7 @@
 .container{
     max-width: 930px!important;
 }
+
 /*.navbar-brand img {
     width: 105px!important;
 }*/
@@ -103,17 +109,17 @@
 }
 /*.Polaroid1_imge {
     width: 195.81px!important;
-    height: 260.55px!important;  
+    height: 260.55px!important;
 }
 .Polaroid1_imge img {
     width: 175.94px!important
 }*/
 
 /*.Polaroid1_imge3 img {
-    width: 215.68px!important; 
+    width: 215.68px!important;
 }
 .Polaroid1_imge3 {
-    width: 235.56px!important;   
+    width: 235.56px!important;
 }
 .Polaroid1_imge4 {
     width: 255.56px!important;
@@ -150,7 +156,7 @@
 }
 .play img {
    width: 165px!important;
-    height: 50px!important; 
+    height: 50px!important;
 }
 .Convecol_box  h3 {
     font-size: 40px!important;
@@ -165,7 +171,7 @@
 /*.Partner_btn a {
     padding: 14px 30px 9px 15px!important;
 }*/
-.Partner_btn {    
+.Partner_btn {
     padding: 5px 5px 5px 5px!important;
 }
 .Partner_btn a {
@@ -177,10 +183,10 @@
 }*/
 .salon_img p {
     font-size: 25px!important;
-    line-height: 35px!important;            
+    line-height: 35px!important;
 }
-.salon_content {  
-    top: 165px!important;    
+.salon_content {
+    top: 165px!important;
 }
 .Aboutus a {
     font-size: 20px!important;
@@ -201,7 +207,7 @@
     max-width: 915px!important;
 }
 .cros {
-    width: 20px!important;   
+    width: 20px!important;
 }
 .ray_img1 img {
     width: 55%!important;
@@ -209,7 +215,7 @@
 /*.Polaroid1_imge5 {
     width: 215.56px!important;
     height: 255.85px!important;
-  
+
 }
 .Polaroid1_imge5 img {
     width: 185.68px!important;
@@ -240,7 +246,7 @@
     font-size: 22px!important;
 }
 .one_navbar a {
-    font-size: 20px!important;   
+    font-size: 20px!important;
 }
 .welome_content h5 {
     font-size: 35px!important;
@@ -265,18 +271,18 @@
 .ray_imag {
     width: 370px!important;
 }
-.Polaroid1_imge3 img {   
-   height: 195px!important;  
+.Polaroid1_imge3 img {
+   height: 195px!important;
 }
 
 
 .modal-dialog {
     max-width: 650px!important;
 }
-h5#exampleModalLabel { 
-    font-size: 25px!important;   
+h5#exampleModalLabel {
+    font-size: 25px!important;
 }
-.phone_content h2 {  
+.phone_content h2 {
     font-size: 20px!important;
 }.Vector_img img {
     height: 20px!important;
@@ -289,7 +295,7 @@ h5#exampleModalLabel {
     width: 19px!important;
 
 }button.btn-close {
-    top: 40px!important;
+    top: 35px!important;
 }
 }
 
@@ -329,7 +335,7 @@ h5#exampleModalLabel {
 .Polaroid1_imge2 h1 {
     font-size: 18px!important;
 }
-.Polaroid1_imge1  img { 
+.Polaroid1_imge1  img {
     height: 170px!important;
 }
 /*.salon_img {
@@ -399,7 +405,7 @@ h5#exampleModalLabel {
 .ray_imag2 {
     background-image: url(../images/salide2.jpeg)!important;
     width: 100%!important;
-    height: 102%;
+    height: 100%;
     position: absolute!important;
     right: 0 !important;
     top: 43px!important;
@@ -437,7 +443,7 @@ h5#exampleModalLabel {
     height: 170px!important;
 }
 .Polaroid1_imge4 img {
-      height: 130px!important;   
+      height: 130px!important;
 }
 .box-right {
     text-align: end!important;
@@ -445,7 +451,7 @@ h5#exampleModalLabel {
 /*.box_center {
     text-align: end!important;
 }*/
-.Polaroid1_imge5 img { 
+.Polaroid1_imge5 img {
     height: 128px!important;
 }
 .Polaroid1_imge3 img {
@@ -470,7 +476,9 @@ h5#exampleModalLabel {
 .facebok {
     width: 11px!important;
 }
-
+p.add_title {
+    width: 275px !important;
+}
 }
 
 @media only screen and (max-width:640px) {
@@ -485,15 +493,15 @@ h5#exampleModalLabel {
 
 
 @media only screen and (max-width:574px) {
-    .ray_imag1 {   
+    .ray_imag1 {
    width: 300px !important;
     background-size: contain;
-}   
+}
     #navbarNav {
         display: none !important;
     }
-    .OnePlus_img img {   
-    height: 90%!important;   
+    .OnePlus_img img {
+    height: 90%!important;
 }
 .Polaroid1_imge2 img {
     height: 95px!important;
@@ -510,7 +518,7 @@ h5#exampleModalLabel {
     padding: 6px 0px 7px 0px!important;
 }
 .cros {
-    width: 16px!important;   
+    width: 16px!important;
 }
 /*.Polaroid1_imge {
     width: 100.81px!important;
@@ -560,7 +568,7 @@ h5#exampleModalLabel {
 .navbar-brand img {
     width: 65px!important;
 }
-.welome_content h5 {     
+.welome_content h5 {
     font-size: 30px!important;
 }
 /*.Polaroid1_imge2 {
@@ -615,7 +623,7 @@ h5#exampleModalLabel {
     height: 100px!important;
 }
 /*.Polaroid1_imge1 {
-    width: 120px!important;   
+    width: 120px!important;
 }*/
 /*.Polaroid1_imge2 {
     width: 120px!important;
@@ -637,7 +645,7 @@ h5#exampleModalLabel {
 }
 
 /*.Polaroid1_imge5 {
-    width: 100px!important;   
+    width: 100px!important;
 }*/
 
 .Polaroid1_imge5 img {
@@ -657,14 +665,24 @@ h5#exampleModalLabel {
 }
 p.add_title {
     font-size: 14px !important;
-    
+
 }
 .facebok {
     width: 10px!important;
 }
 .cros1 {
     width: 22px!important;
-   
+
+}
+.ray_imag2 {
+    height: 50%!important;
+}
+p.add_title {
+    width: 260px !important;
+}
+button.btn-close {
+    top: 33px!important;
+    right: 35px !important;
 }
 }
 @media only screen and (max-width:576px) {
@@ -797,9 +815,10 @@ p.add_title {
 .Craft_box h1 {
     font-size: 13px!important;
 }
-.Partner_btn a { 
-    padding: 9px 30px 9px 30px!important;
-}.Polaroid1_imge4 {
+.Partner_btn a {
+    padding: 8px 35px 8px 35px!important;
+}
+.Polaroid1_imge4 {
     width: 102px!important;
 }
 .Polaroid1_imge3 {
@@ -833,4 +852,5 @@ p.add_title {
 }ul.Aboutus {
     gap: 18px !important;
 }
+
 }

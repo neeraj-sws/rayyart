@@ -56,6 +56,10 @@ Route::group(['middleware'=>'client'],function(){
 Route::get('about-us', [App\Http\Controllers\Front\HomeController::class, 'about_us'])->name('about-us');
 Route::get('terms-condition', [App\Http\Controllers\Front\HomeController::class, 'term_condition'])->name('terms-condition');
 Route::get('privacy-policy', [App\Http\Controllers\Front\HomeController::class, 'privacy_policy'])->name('privacy-policy');
+Route::get('our-story', [App\Http\Controllers\Front\HomeController::class, 'our_story'])->name('our.story');
+Route::get('cancellation-refunded', [App\Http\Controllers\Front\HomeController::class, 'cancellation_refunded'])->name('cancellation.refunded');
+Route::get('faq', [App\Http\Controllers\Front\HomeController::class, 'faq'])->name('faqs');
+
 
 
 // Route::get('login-form',[AdminController::class,'login_form'])->name('login.form');
