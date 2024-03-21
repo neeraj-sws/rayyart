@@ -103,11 +103,10 @@
                     <ul class="navbar-nav  gap-md-3 gap-0 head_list mt-2 w3-animate-left" id="hove">
 
                         <li class="nav-item">
-                            <a class="btn btn-primary" class="nav-link ps-5" href="#">Home</a>
+                            <a class="btn btn-primary" class="nav-link ps-5" href="{{ url('/') }}">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="btn btn-primary" class="nav-link ps-5" href="#partner_section">For
-                                Business</a>
+                            <a class="btn btn-primary" class="nav-link ps-5" href="#partner_section" id="businessLink">For Business</a>
                         </li>
                         <li class="nav-item">
                             <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal"
@@ -132,3 +131,25 @@
     <!-- 3y7hg27dxgv4x873 -->
 
 </div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        document.getElementById("businessLink").addEventListener("click", function(event) {
+            event.preventDefault();
+
+            var pageWrapper = document.querySelector(".page-wrapper");
+            var sidebarWrapper = document.querySelector(".sidebar-wrapper");
+
+            if (pageWrapper.classList.contains("toggled")) {
+                pageWrapper.classList.remove("toggled");
+                sidebarWrapper.classList.remove("d-block");
+            } else {
+                pageWrapper.classList.add("toggled");
+                sidebarWrapper.classList.add("d-block");
+            }
+            var partnerSection = document.getElementById("partner_section");
+        partnerSection.scrollIntoView({ behavior: "smooth" });
+        });
+    });
+</script>
+
